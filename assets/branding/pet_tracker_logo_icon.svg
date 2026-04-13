@@ -1,0 +1,25 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="84" y1="76" x2="920" y2="946" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#29D3BE"/>
+      <stop offset="1" stop-color="#4A7DFF"/>
+    </linearGradient>
+    <linearGradient id="paw" x1="335" y1="290" x2="709" y2="732" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F5D92"/>
+      <stop offset="1" stop-color="#173B7A"/>
+    </linearGradient>
+    <linearGradient id="plus" x1="447" y1="528" x2="579" y2="652" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7FF2D4"/>
+      <stop offset="1" stop-color="#37D3C0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1024" height="1024" rx="246" fill="url(#bg)"/>
+  <circle cx="338" cy="340" r="70" fill="url(#paw)"/>
+  <circle cx="452" cy="270" r="60" fill="url(#paw)"/>
+  <circle cx="572" cy="270" r="60" fill="url(#paw)"/>
+  <circle cx="686" cy="340" r="70" fill="url(#paw)"/>
+  <path d="M512 402C408.723 402 325 485.723 325 589C325 675.032 393.389 744 478.838 752.794C499.778 754.949 524.222 754.949 545.162 752.794C630.611 744 699 675.032 699 589C699 485.723 615.277 402 512 402Z" fill="url(#paw)"/>
+  <rect x="472" y="510" width="80" height="176" rx="32" fill="url(#plus)"/>
+  <rect x="424" y="558" width="176" height="80" rx="32" fill="url(#plus)"/>
+</svg>
