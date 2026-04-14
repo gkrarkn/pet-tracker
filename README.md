@@ -51,37 +51,37 @@ flutter run -d "iPhone 17"
 
 ### Dashboard
 
-![Dashboard](./assets/screenshots/dashboard.png)
+<img src="./assets/screenshots/dashboard.png" alt="Dashboard" width="280" />
 
 ### Profil
 
-![Profil](./assets/screenshots/profile.png)
+<img src="./assets/screenshots/profile.png" alt="Profil" width="280" />
 
 ### Akıllı Araçlar ve Modüller
 
-![Akıllı Araçlar](./assets/screenshots/smart_tools.png)
-![Modüller](./assets/screenshots/modules.png)
+<img src="./assets/screenshots/smart_tools.png" alt="Akıllı Araçlar" width="280" />
+<img src="./assets/screenshots/modules.png" alt="Modüller" width="280" />
 
 ### Bakıcı Erişimi
 
-![Bakıcı Erişimi](./assets/screenshots/caregiver.png)
+<img src="./assets/screenshots/caregiver.png" alt="Bakıcı Erişimi" width="280" />
 
 ### Belgeler
 
-![Belgeler](./assets/screenshots/documents.png)
+<img src="./assets/screenshots/documents.png" alt="Belgeler" width="280" />
 
 ### Pati Pasaportu
 
-![Pati Pasaportu](./assets/screenshots/travel_mode.png)
+<img src="./assets/screenshots/travel_mode.png" alt="Pati Pasaportu" width="280" />
 
 ### Semptom Günlüğü
 
-![Semptom Günlüğü](./assets/screenshots/symptoms.png)
+<img src="./assets/screenshots/symptoms.png" alt="Semptom Günlüğü" width="280" />
 
 ### Veteriner
 
-![Veteriner Ziyaretleri](./assets/screenshots/vet_visits.png)
-![Yeni Ziyaret Ekle](./assets/screenshots/vet_add_visit.png)
+<img src="./assets/screenshots/vet_visits.png" alt="Veteriner Ziyaretleri" width="280" />
+<img src="./assets/screenshots/vet_add_visit.png" alt="Yeni Ziyaret Ekle" width="280" />
 
 ## Durum
 
