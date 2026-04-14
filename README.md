@@ -44,6 +44,10 @@ flutter run -d "iPhone 17"
 
 - Launch öncesi checklist: [RELEASE_CHECKLIST_TR.md](./RELEASE_CHECKLIST_TR.md)
 - Launch durum özeti: [RELEASE_STATUS_TR.md](./RELEASE_STATUS_TR.md)
+- App Store metin paketi: [APP_STORE_COPY_TR.md](./APP_STORE_COPY_TR.md)
+- Gizlilik metni: [GIZLILIK_METNI_TR.md](./GIZLILIK_METNI_TR.md)
+- Destek metni: [DESTEK_METNI_TR.md](./DESTEK_METNI_TR.md)
+- Son smoke test akışı: [RELEASE_SMOKE_TEST_TR.md](./RELEASE_SMOKE_TEST_TR.md)
 
 ## Ekran Görüntüleri
 
