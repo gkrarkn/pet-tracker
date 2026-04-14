@@ -45,6 +45,44 @@ flutter run -d "iPhone 17"
 - Launch öncesi checklist: [RELEASE_CHECKLIST_TR.md](./RELEASE_CHECKLIST_TR.md)
 - Launch durum özeti: [RELEASE_STATUS_TR.md](./RELEASE_STATUS_TR.md)
 
+## Ekran Görüntüleri
+
+> Not: Görselleri `assets/screenshots/` klasörüne aşağıdaki dosya adlarıyla eklediğinde bu bölüm otomatik düzgün görünür.
+
+### Dashboard
+
+![Dashboard](./assets/screenshots/dashboard.png)
+
+### Profil
+
+![Profil](./assets/screenshots/profile.png)
+
+### Akıllı Araçlar ve Modüller
+
+![Akıllı Araçlar](./assets/screenshots/smart_tools.png)
+![Modüller](./assets/screenshots/modules.png)
+
+### Bakıcı Erişimi
+
+![Bakıcı Erişimi](./assets/screenshots/caregiver.png)
+
+### Belgeler
+
+![Belgeler](./assets/screenshots/documents.png)
+
+### Pati Pasaportu
+
+![Pati Pasaportu](./assets/screenshots/travel_mode.png)
+
+### Semptom Günlüğü
+
+![Semptom Günlüğü](./assets/screenshots/symptoms.png)
+
+### Veteriner
+
+![Veteriner Ziyaretleri](./assets/screenshots/vet_visits.png)
+![Yeni Ziyaret Ekle](./assets/screenshots/vet_add_visit.png)
+
 ## Durum
 
 - Bu repo aktif geliştirme aşamasındadır.
