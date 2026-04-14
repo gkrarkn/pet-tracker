@@ -1,5 +1,7 @@
 # Pet Tracker
 
+Evcil dostunun sağlık ve bakım planı tek uygulamada.
+
 Pet Tracker, evcil hayvan sahiplerinin aşı, ilaç, bakım, kilo ve veteriner süreçlerini tek yerden takip edebilmesi için geliştirilen bir Flutter uygulamasıdır.
 
 ## Öne Çıkan Özellikler
@@ -42,6 +44,11 @@ flutter run -d "iPhone 17"
 
 - Launch öncesi checklist: [RELEASE_CHECKLIST_TR.md](./RELEASE_CHECKLIST_TR.md)
 - Launch durum özeti: [RELEASE_STATUS_TR.md](./RELEASE_STATUS_TR.md)
+
+## Durum
+
+- Bu repo aktif geliştirme aşamasındadır.
+- Launch öncesi son doğrulamalar için release dokümanları kullanılmalıdır.
 
 ## Notlar
 
